@@ -14,9 +14,6 @@
 
 # Build results
 [Dd]ebug/*
-!Debug/DllSample.dll
-!Debug/DllSample.lib
-/DllSample/Debug/*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
@@ -335,3 +332,6 @@ ASALocalRun/
 *.vcxproj
 *.vcxproj.filters
 *.sln
+!Debug/DllSample.dll
+!Debug/DllSample.lib
+DllSample/Debug/*
