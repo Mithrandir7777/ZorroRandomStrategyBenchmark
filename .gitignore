@@ -16,6 +16,7 @@
 [Dd]ebug/*
 !Debug/DllSample.dll
 !Debug/DllSample.lib
+/DllSample/Debug/*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
