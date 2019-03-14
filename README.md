@@ -8,4 +8,5 @@ GNU GSL was taken as it is explained in http://www2.lawrence.edu/fast/GREGGJ/CMS
 References & inspiration:
 
 https://www.financial-hacker.com/whites-reality-check/
+
 https://robotwealth.com/benchmarking-backtest-results-against-random-strategies/
