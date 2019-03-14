@@ -13,7 +13,7 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/*
+[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
@@ -332,6 +332,3 @@ ASALocalRun/
 *.vcxproj
 *.vcxproj.filters
 *.sln
-!Debug/DllSample.dll
-!Debug/DllSample.lib
-DllSample/Debug/*
