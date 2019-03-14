@@ -14,8 +14,8 @@
 
 # Build results
 [Dd]ebug/
-!DllSample/Debug/DllSample.dll
-!DllSample/Debug/DllSample.lib
+!Debug/DllSample.dll
+!Debug/DllSample.lib
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
