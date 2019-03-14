@@ -13,7 +13,7 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
+[Dd]ebug/*
 !Debug/DllSample.dll
 !Debug/DllSample.lib
 [Dd]ebugPublic/
